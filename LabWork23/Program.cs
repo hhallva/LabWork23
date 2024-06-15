@@ -1,5 +1,4 @@
 ﻿using LabWorkLibrary;
-using System.Reflection.Metadata;
 
 internal class Program
 {

@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\LabWorkLibrary\LabWorkLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="LabWorkLibrary">
       <HintPath>..\..\LabWorkLibrary\LabWorkLibrary\bin\Debug\net8.0\LabWorkLibrary.dll</HintPath>
     </Reference>
